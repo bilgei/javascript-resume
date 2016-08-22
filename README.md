@@ -1,2 +1,3 @@
 # javascript-resume
-Udacity
+
+It is for using Javascript basics.
